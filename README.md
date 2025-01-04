@@ -104,7 +104,7 @@ By leveraging these insights, Atlas Labs can improve employee satisfaction, redu
 ## **Repository Contents**
 - **Power BI File**:
   - `.pbix` file containing the dashboards and analysis.
-- **Screenshots**:
-  - Visualizations for reference.
+- **Dataset**:
+  - Dataset for reference.
 - **README**:
   - Detailed documentation of the project, including objectives, analysis, results, and conclusions.
